@@ -1,0 +1,40 @@
+.tools {
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+}
+
+.tools button,
+.form button {
+    padding: 7px 20px;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    margin-left: 15px;
+}
+
+.deleteBtn {
+    background-color: #f44336;
+    color: white;
+}
+
+.cancelBtn {
+    background-color: orange;
+    ;
+}
+
+.form button {
+    background-color: yellowgreen;
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+.form label {
+    display: block;
+    font-size: small;
+    margin-top: 10px;
+}
+
+.form input {
+    padding: 5px 30px;
+}

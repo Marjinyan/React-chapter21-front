@@ -1,0 +1,6 @@
+.bookList {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    justify-content: space-around;
+}
